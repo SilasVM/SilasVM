@@ -1,7 +1,7 @@
 ### Hey Everyone 👋🏾
 
-- I'm Silas, but you may also know me as Victor
-- I'm currently working of OSRE Catalyst with UC Santa Cruz
+- 🕴🏾I'm Silas, but you may also know me as Victor
+- 🏄🏾‍♂️I'm currently working of OSRE Catalyst with UC Santa Cruz
 - 🔰I'm a cs Student entering junior year at Norfolk State University
 - 💻Developing Software one of my main goals with CS
 - 📸Photography is a huge passion of mines
