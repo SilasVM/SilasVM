@@ -10,6 +10,7 @@
 - 🤳🏾 My Instagram is SilasV_V http://Instagram.com/SilasV_V (<i>check out my photos<i>)
 - 🌱 I love growing plants
 - 🌍 I love to travel and have done study abroads to Ghana and Italy 
+- Kemon was here
 <!--
 **SilasVM/SilasVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
