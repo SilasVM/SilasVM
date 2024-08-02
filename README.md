@@ -1,4 +1,4 @@
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SilasVM/SilasVM.github.io/badge)](https://scorecard.dev/viewer/?uri=github.com/SilasVM/SilasVM)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SilasVM/SilasVM/badge)](https://scorecard.dev/viewer/?uri=github.com/SilasVM/SilasVM)
 ### Hey Everyone 👋🏾
 
 - 🕴🏾 I'm Silas (<i>aka Victor<i>)
