@@ -2,15 +2,14 @@
 ### Hey Everyone 👋🏾
 
 - 🕴🏾 I'm Silas (<i>aka Victor<i>)
-- 🏄🏾‍♂️ I'm currently working as a mentor with OSRE Catalyst, UC Santa Cruz
-- 🔰 I'm a cs Student entering senior year at Norfolk State University
-- 💻 Developing Software one of my main goals with CS(AI is cool too!)
+- 🏄🏾‍♂️ I'm currently working as a mentor with OSRE Catalyst, UC Santa Cruz for my second year.
+- 🔰 I'm a Graduate cs Student at Norfolk State University
+- 💻 Developing Software one of my main goals with CS(AI is cool too!). I'm also interested in working with Open Source Projects.
 - 📸 Photography is a huge passion of mines
 - 🎞️ I love developing film
 - 🤳🏾 My Instagram is SilasV_V http://Instagram.com/SilasV_V (<i>check out my photos<i>)
 - 🌱 I love growing plants
-- 🌍 I love to travel and have done study abroads to Ghana and Italy 
-- Kemon was here
+- 🌍 I love to travel and have done study abroads to Ghana, Italy, and the Bahamas. 
 <!--
 **SilasVM/SilasVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
