@@ -7,9 +7,13 @@
 - 💻 Developing Software one of my main goals with CS. I'm also interested in working with Open Source Projects.
 - 📸 Photography is a huge passion of mines
 - 🎞️ I love developing film
-- 🤳🏾 My Instagram is [SilasV_V](http://Instagram.com/SilasV_V) (*check out my photos*)
 - 🌱 I love growing plants
-- 🌍 I love to travel and have done study abroads to Ghana, Italy, and the Bahamas. 
+- 🌍 I love to travel and have done study abroads to Ghana, Italy, and the Bahamas
+- 🤳🏾 My Instagram is [SilasV_V](http://Instagram.com/SilasV_V) (*check out my photos*)
+
+  # The Golden Gate Bridge From My Perspective:  
+  <img width="275" alt="Golden Gate Bridge" src="Starred (4032),JPG"/>
+
 <!--
 **SilasVM/SilasVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
