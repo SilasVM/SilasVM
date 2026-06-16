@@ -1,13 +1,13 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SilasVM/SilasVM/badge)](https://scorecard.dev/viewer/?uri=github.com/SilasVM/SilasVM)
 ### Hey Everyone 👋🏾
 
-- 🕴🏾 I'm Silas
+- 🕴🏾 I'm Silas 🎆
 - 🏄🏾‍♂️ I'm currently working as a Graduate Student Mentor with [Contributor Catalyst](https://github.com/emmet0r/contributor-catalyst), at UC Santa Cruz for my third year.
 - 🔰 I'm a Graduate cs Student at Norfolk State University
 - 💻 Developing Software one of my main goals with CS. I'm also interested in working with Open Source Projects.
 - 📸 Photography is a huge passion of mines
 - 🎞️ I love developing film
-- 🤳🏾 My Instagram is [SilasV_V](http://Instagram.com/SilasV_V) (<i>check out my photos<i>)
+- 🤳🏾 My Instagram is [SilasV_V](http://Instagram.com/SilasV_V) (*check out my photos*)
 - 🌱 I love growing plants
 - 🌍 I love to travel and have done study abroads to Ghana, Italy, and the Bahamas. 
 <!--
