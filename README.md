@@ -1,7 +1,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/SilasVM/SilasVM/badge)](https://scorecard.dev/viewer/?uri=github.com/SilasVM/SilasVM)
 ### Hey Everyone 👋🏾
 
-- 🕴🏾 I'm Silas (<i>aka Victor<i>)
+- 🕴🏾 I'm Silas
 - 🏄🏾‍♂️ I'm currently working as a Graduate Student Mentor with [Contributor Catalyst](https://github.com/emmet0r/contributor-catalyst), at UC Santa Cruz for my third year.
 - 🔰 I'm a Graduate cs Student at Norfolk State University
 - 💻 Developing Software one of my main goals with CS. I'm also interested in working with Open Source Projects.
