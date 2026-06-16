@@ -12,7 +12,7 @@
 - 🤳🏾 My Instagram is [SilasV_V](http://Instagram.com/SilasV_V) (*check out my photos*)
 
   # The Golden Gate Bridge From My Perspective:  
-  <img width="275" alt="Golden Gate Bridge" src="Starred (4032),JPG"/>
+  <img width="275" alt="Golden Gate Bridge" src="Starred (4032).JPG"/>
 
 <!--
 **SilasVM/SilasVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
